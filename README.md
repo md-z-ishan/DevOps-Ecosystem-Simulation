@@ -2,6 +2,9 @@
 
 A comprehensive simulation of a DevOps environment demonstrating CI/CD pipelines, containerization, monitoring, and AI-powered insights using Google's Gemini AI.
 
+![Project Screenshot](https://drive.google.com/uc?export=view&id=1_K3iRs9lsetgRvSWLBFKjPXE_bdDLAOV)
+
+
 ## Features
 
 - **CI/CD Pipeline Visualization**: Interactive pipeline diagrams showing build, test, and deployment stages
