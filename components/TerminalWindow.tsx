@@ -1,3 +1,4 @@
+// Feature: Simulated terminal window for DevOps commands
 import React, { useEffect, useRef } from 'react';
 import { Terminal } from 'lucide-react';
 
