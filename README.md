@@ -3,7 +3,7 @@
 A comprehensive simulation of a DevOps environment demonstrating CI/CD pipelines, containerization, monitoring, and AI-powered insights using Google's Gemini AI.
 
 ![Project Screenshot](https://drive.google.com/uc?export=view&id=1_K3iRs9lsetgRvSWLBFKjPXE_bdDLAOV)
-![Project Screenshot](https://drive.google.com/file/d/1MC9yBUF15HCX3sueX1DM2NtgE2hbDJTb/view?usp=sharing)
+![Project Screenshot](https://drive.google.com/file/d/1MRh_ihxQ8P2J7KznZbyN-fXaQscYmqEf/view?usp=drive_link)
 
 ## Features
 
@@ -21,6 +21,9 @@ A comprehensive simulation of a DevOps environment demonstrating CI/CD pipelines
 - **Charts**: Recharts for data visualization
 - **Icons**: Lucide React
 
+
+
+S₹
 ## Prerequisites
 
 - Node.js (v16 or higher)
