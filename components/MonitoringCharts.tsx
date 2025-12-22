@@ -1,4 +1,5 @@
 // Feature: Enhanced monitoring charts with real-time data visualization
+// Added support for CPU and memory metrics
 import React from 'react';
 import { 
   AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
