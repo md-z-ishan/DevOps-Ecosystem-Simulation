@@ -3,7 +3,7 @@
 A comprehensive simulation of a DevOps environment demonstrating CI/CD pipelines, containerization, monitoring, and AI-powered insights using Google's Gemini AI. Enhanced edition version 2.0
 
 ![Project Screenshot](https://drive.google.com/uc?export=view&id=1_K3iRs9lsetgRvSWLBFKjPXE_bdDLAOV)
-![Project Screenshot](https://drive.google.com/file/d/1MRh_ihxQ8P2J7KznZbyN-fXaQscYmqEf/view?usp=drive_link)
+
 ![image alt](https://github.com/md-z-ishan/DevOps-Ecosystem-Simulation/blob/d18a006e185a1a192ef035a9b821cf05d894c400/folder%20structure.png)
 
 ## Features
