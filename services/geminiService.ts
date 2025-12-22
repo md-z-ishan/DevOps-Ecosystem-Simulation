@@ -21,21 +21,21 @@ export const createChatSession = (): Chat => {
 };
 
 export const analyzeLogsWithAI = async (logs: string[]): Promise<string> => {
-    try {
-        const response = await ai.models.generateContent({
-            model: 'gemini-2.5-flash',
-            contents: `Analyze the following CI/CD build logs and explain what went wrong or summarize the success. 
+  try {
+    const response = await ai.models.generateContent({
+      model: 'gemini-2.5-flash',
+      contents: `Analyze the following CI/CD build logs and explain what went wrong or summarize the success. 
             Provide actionable advice if there is a failure.
             
             LOGS:
             ${logs.join('\n')}
             `
-        });
-        return response.text || "No analysis could be generated.";
-    } catch (error) {
-        console.error("AI Log Analysis failed", error);
-        return "Failed to analyze logs using Gemini AI. Please check your API Key.";
-    }
+    });
+    return response.text || "No analysis could be generated.";
+  } catch (error) {
+    console.error("AI Log Analysis failed", error);
+    return "Failed to analyze logs using Gemini AI. Please check your API Key.";
+  }
 }
 
 export const sendMessageToChat = async (chat: Chat, message: string): Promise<string> => {
