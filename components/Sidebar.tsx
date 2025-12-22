@@ -1,3 +1,4 @@
+// Feature: Navigation sidebar with DevOps tools and sections
 import React from 'react';
 import { View } from '../types';
 import { 
