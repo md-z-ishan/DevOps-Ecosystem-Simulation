@@ -1,3 +1,4 @@
+// Experiment: Dark mode theme implementation
 export enum PipelineStatus {
   IDLE = 'IDLE',
   RUNNING = 'RUNNING',
