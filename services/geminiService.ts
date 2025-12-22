@@ -1,3 +1,4 @@
+// Test: Integration tests for AI service functionality
 import { GoogleGenAI, Chat, GenerateContentResponse } from "@google/genai";
 
 const apiKey = import.meta.env.VITE_GEMINI_API_KEY || '';
