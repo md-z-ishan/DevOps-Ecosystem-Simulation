@@ -1,4 +1,4 @@
-# DevOps Ecosystem Simulator
+# DevOps Simulation Ecosystem
 
 A comprehensive simulation of a DevOps environment demonstrating CI/CD pipelines, containerization, monitoring, and AI-powered insights using Google's Gemini AI.
 
