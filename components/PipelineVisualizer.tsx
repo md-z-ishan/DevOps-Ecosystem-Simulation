@@ -1,3 +1,4 @@
+// Feature: Interactive CI/CD pipeline visualizer with stage status indicators
 import React from 'react';
 import { PipelineStage, StageStatus } from '../types';
 import { GitCommit, Package, Container, UploadCloud, CheckCircle2, XCircle, Loader2, Clock, Hammer } from 'lucide-react';
