@@ -5,6 +5,8 @@ A comprehensive simulation of a DevOps environment demonstrating CI/CD pipelines
 ![Project Screenshot](https://drive.google.com/uc?export=view&id=1_K3iRs9lsetgRvSWLBFKjPXE_bdDLAOV)
 
 ![image alt](https://github.com/md-z-ishan/DevOps-Ecosystem-Simulation/blob/d18a006e185a1a192ef035a9b821cf05d894c400/folder%20structure.png)
+![image alt](https://github.com/md-z-ishan/DevOps-Ecosystem-Simulation/blob/e1ec75a97579477bb413c21b26ac01ec04ca80ae/projectscreenshot.png)
+
 
 ## Features
 
