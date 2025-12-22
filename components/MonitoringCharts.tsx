@@ -1,3 +1,4 @@
+// Feature: Enhanced monitoring charts with real-time data visualization
 import React from 'react';
 import { 
   AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
