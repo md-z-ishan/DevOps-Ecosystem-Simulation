@@ -1,3 +1,4 @@
+// Feature: New UI enhancements for better user experience
 import React, { useState, useEffect, useCallback, useRef } from 'react';
 import Sidebar from './components/Sidebar';
 import PipelineVisualizer from './components/PipelineVisualizer';
