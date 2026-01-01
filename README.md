@@ -25,6 +25,8 @@ A comprehensive simulation of a DevOps environment demonstrating CI/CD pipelines
 - **Frontend**: React 19 with TypeScript
 - **Build Tool**: Vite
 - **AI Integration**: Google Gemini AI
+- **Containerization**: Docker & Docker Compose
+- **Web Server**: Nginx (Production Build)
 - **Charts**: Recharts for data visualization
 - **Icons**: Lucide React
 
@@ -61,6 +63,23 @@ S₹
    ```
 
    The app will be available at `http://localhost:5173`
+
+### Docker Deployment
+
+Alternatively, you can run the application using Docker:
+
+1. **Create .env file**:
+   Create a `.env` file in the root directory with your API key:
+   ```
+   VITE_GEMINI_API_KEY=your_api_key_here
+   ```
+
+2. **Run with Docker Compose**:
+   ```bash
+   docker-compose up --build
+   ```
+
+   The application will be served via Nginx at `http://localhost:3000`
 
 ## Project Architecture
 
